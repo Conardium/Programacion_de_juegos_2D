@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 6efe7e4236ed3fd43a1ef146e9814ac3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espadachin_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1539
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819eff64bfe23ed48925ee6753c36e5e
+      internalID: 734861126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1538
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462503e8a4076e14582b7b7a867d1b52
+      internalID: 2062041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1537
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ef295b67988c43a204db86a6b46e2
+      internalID: 856307314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c128ee583514a45b6be851aca076bb
+      internalID: 687293233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1537
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dbcc4cf19423449a8370621b75c077
+      internalID: -1978259983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1538
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5fe5e0ad9887240bf1d686fa8063a9
+      internalID: 842620962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1537
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18638eaefe0ca4a4685b20105604da9b
+      internalID: 1441647529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_69
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1536
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf84de81a7afa948a02608b6f7a0974
+      internalID: -847346358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_70
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1537
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6d8234c61b554caf18730885f3673
+      internalID: 1623629846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1474
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6562042708d42644bfcabc825ad4aea
+      internalID: -1389156024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1474
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3efb42eb0b33184da250b2e882987a7
+      internalID: 787674230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1475
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc5dfb59700574a911e01304e37e01
+      internalID: 203642746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1475
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4c05840bbb1b47adbdb3b62fe53eb
+      internalID: 762426547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_75
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0496334392d53646aee282b046e4d2c
+      internalID: -1140071839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1474
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc3d38d6f10da4f848cbe942800d49
+      internalID: -942009601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1474
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676110b192359e44b2f9226fa2b3c2a
+      internalID: 1728946103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131b38a35468ad4bae986dc2039c06d
+      internalID: -721869971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_79
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1474
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f47767ea71bb04f9f5d1d0dbbcc96a
+      internalID: 864038024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1410
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fee6e4fb357e4dbe691d8c2966e04
+      internalID: -1076542581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_81
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1410
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cdef20fd1afc4ca16bae4bc96052b
+      internalID: -1112892200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1409
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe985206516f64b9c7e4ac73e0aa8c
+      internalID: 718411203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_83
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1408
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244dcdce2a16844aac3f97aec9f601d
+      internalID: -623347087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1409
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce40949217c6fd41aa747987d023ca5
+      internalID: 1160437052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_85
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1410
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cca4273bba14a44a1dfafd68bfb04d
+      internalID: 1076711383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_86
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafaa2542113b6c46a5d20099e982bb5
+      internalID: 2069062924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1409
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccd84190262e9479aea2636279e2cc
+      internalID: -758064476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_88
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a14c40cb4b2340952e65b3bed25cc
+      internalID: -247379169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d54743134c2ce4b82cd3357bba9384
+      internalID: -163969407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725265f4dc0ddff4fb76a8ff42538a91
+      internalID: -1529190103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1347
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ce3d70e0bd9d4081cd14e44822c2d
+      internalID: -1020420647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1347
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435eb6dbbff055a47bccc1df426f9907
+      internalID: -1988860752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf5c2b036195b4d907dc7a49377b57
+      internalID: 1749494656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_94
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cbe297d5ef55946b6938b6136322f0
+      internalID: 437661496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8f69952ed8094c9ee6fc2a8424655
+      internalID: 1939815462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_96
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b85f1e7b2f75247ad3e4a165672ddc
+      internalID: 807522385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1346
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f13d7981d84c4e8526abf165cdeec
+      internalID: -1366684033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 769
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f60e99a2eb8ec4a8f0f62eb7772c80
+      internalID: 1962906352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_175
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 769
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7150208383e2471429f0dbbafa3d7fbf
+      internalID: 495480078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_176
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76c9d375c7ce94394cdeae63d287ca
+      internalID: 1029671078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_177
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c2766a735c1742b26302cfdc54edf
+      internalID: -784259592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_178
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 768
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c76ab384747a546b2ef4e9800fba21
+      internalID: -666192789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_179
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408ae85b5b0909d4989cf833a61f0f66
+      internalID: -1385638178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_180
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35059dd19d79b3945be349c0f60b08fc
+      internalID: -260602584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_181
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12389754aede6d48a169e1ec7cbf0ad
+      internalID: 125580283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_182
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 640
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045204186ed7b0a4b845e35352088654
+      internalID: -1444352764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_183
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0367b41914e643b63c546f98bb745
+      internalID: 1590452273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_184
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 640
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5bc91132ad9b4484a4f520c35886e
+      internalID: -1841711319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_185
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 640
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a56a3b2e1df947a7ba4b27df1bda2
+      internalID: -550811673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abbe8f204ebeab4285242bb7f49adeb
+      internalID: -1943867584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_187
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc869cf6475ee3419e761f9fe5e6a50
+      internalID: -2065143106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_188
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 450
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb00e712d81df4ca1af3a68cc86061
+      internalID: -1769098080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_189
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 450
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14b528a68e28d49b16be0b60ca2339
+      internalID: 670104956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_190
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 450
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2212018a0ca918249a7239a0956c49ab
+      internalID: 1759791366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_191
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 450
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69935635bd68ada428ee270bf35ee443
+      internalID: 370174488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_192
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32e3e5f29bc0247baaec9d21924373
+      internalID: 509495613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_193
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 258
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315980f32325824793f7263b3df97bb
+      internalID: 492064691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_194
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db38c4af5a6644499ab59119b6598f
+      internalID: -831489277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_195
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 258
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c96c87a894494cabf9b8357c1a482
+      internalID: -2143884052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_196
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 252
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd58922f24d5241b2cd91bd156ff84
+      internalID: 2041217765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_197
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 258
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fac10a5a153d842bbc003d648dcaaf
+      internalID: -1059600874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_198
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed059f4109373bd4eb098e33523b7dd9
+      internalID: 903263685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_199
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 65
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be63bfa93bae0e4882f1325622dc5b4
+      internalID: -120896229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_200
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ba72a8d3f52d43b31404172b45c91
+      internalID: -1353705994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_201
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 65
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79eb9b7f67c1854b9291b2307fa58fc
+      internalID: -299574298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_202
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0d1b04c12cb448a651d3ea2e50eb3
+      internalID: 740001736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espadachin_203
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 65
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74390cab2dd2949b2256e5042faa5b
+      internalID: 608599788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Espadachin_0: 2011443617
+      Espadachin_1: 2054190539
+      Espadachin_10: 602409484
+      Espadachin_100: 1323956765
+      Espadachin_101: 1775881580
+      Espadachin_102: 1571166739
+      Espadachin_103: -890221926
+      Espadachin_104: 1856845204
+      Espadachin_105: 2012690618
+      Espadachin_106: 6151331
+      Espadachin_107: -893801049
+      Espadachin_108: 329591904
+      Espadachin_109: -1420792285
+      Espadachin_11: -765252872
+      Espadachin_110: 749962818
+      Espadachin_111: 382021114
+      Espadachin_112: -1599726104
+      Espadachin_113: -1398776982
+      Espadachin_114: 2065825107
+      Espadachin_115: 982066628
+      Espadachin_116: -1807295443
+      Espadachin_117: 1477795167
+      Espadachin_118: 1559676792
+      Espadachin_119: -1379519100
+      Espadachin_12: -1523997087
+      Espadachin_120: -1664199951
+      Espadachin_121: -1068600755
+      Espadachin_122: 850731762
+      Espadachin_123: -1537466063
+      Espadachin_124: -279582181
+      Espadachin_125: 1778615781
+      Espadachin_126: -1721643508
+      Espadachin_127: 216138490
+      Espadachin_128: 1200133317
+      Espadachin_129: 359018975
+      Espadachin_13: -902047697
+      Espadachin_130: -382878462
+      Espadachin_131: 1149198418
+      Espadachin_132: -1369209281
+      Espadachin_133: 1358379565
+      Espadachin_134: 1324442889
+      Espadachin_135: -977293184
+      Espadachin_136: 1688066654
+      Espadachin_137: 1123672962
+      Espadachin_138: 1963069653
+      Espadachin_139: -1063645397
+      Espadachin_14: 1566527492
+      Espadachin_140: 2125808973
+      Espadachin_141: -296508270
+      Espadachin_142: 1377909110
+      Espadachin_143: 1868733702
+      Espadachin_144: -763868038
+      Espadachin_145: 693902100
+      Espadachin_146: -1638230654
+      Espadachin_147: -2135003007
+      Espadachin_148: -690623368
+      Espadachin_149: -592727421
+      Espadachin_15: 88686709
+      Espadachin_150: -19756037
+      Espadachin_151: -1630015299
+      Espadachin_152: 277134890
+      Espadachin_153: -437914721
+      Espadachin_154: -1094347330
+      Espadachin_155: 1264909386
+      Espadachin_156: 66337408
+      Espadachin_157: 1684141607
+      Espadachin_158: -2073768602
+      Espadachin_159: -1609926342
+      Espadachin_16: 1692895743
+      Espadachin_160: 154149454
+      Espadachin_161: 1419923288
+      Espadachin_162: -431462026
+      Espadachin_163: 462592375
+      Espadachin_164: 316769053
+      Espadachin_165: -694078643
+      Espadachin_166: 935567891
+      Espadachin_167: 789595407
+      Espadachin_168: -163524641
+      Espadachin_169: -1499146690
+      Espadachin_17: -698050634
+      Espadachin_170: -1458503750
+      Espadachin_171: 1927654512
+      Espadachin_172: 145578739
+      Espadachin_173: -455632389
+      Espadachin_174: 1962906352
+      Espadachin_175: 495480078
+      Espadachin_176: 1029671078
+      Espadachin_177: -784259592
+      Espadachin_178: -666192789
+      Espadachin_179: -1385638178
+      Espadachin_18: -933837754
+      Espadachin_180: -260602584
+      Espadachin_181: 125580283
+      Espadachin_182: -1444352764
+      Espadachin_183: 1590452273
+      Espadachin_184: -1841711319
+      Espadachin_185: -550811673
+      Espadachin_186: -1943867584
+      Espadachin_187: -2065143106
+      Espadachin_188: -1769098080
+      Espadachin_189: 670104956
+      Espadachin_19: -1073304821
+      Espadachin_190: 1759791366
+      Espadachin_191: 370174488
+      Espadachin_192: 509495613
+      Espadachin_193: 492064691
+      Espadachin_194: -831489277
+      Espadachin_195: -2143884052
+      Espadachin_196: 2041217765
+      Espadachin_197: -1059600874
+      Espadachin_198: 903263685
+      Espadachin_199: -120896229
+      Espadachin_2: 16978417
+      Espadachin_20: -691598737
+      Espadachin_200: -1353705994
+      Espadachin_201: -299574298
+      Espadachin_202: 740001736
+      Espadachin_203: 608599788
+      Espadachin_21: -941171401
+      Espadachin_22: -756346733
+      Espadachin_23: -2005468217
+      Espadachin_24: -181177258
+      Espadachin_25: -904177020
+      Espadachin_26: -871248488
+      Espadachin_27: -15509131
+      Espadachin_28: 1647412911
+      Espadachin_29: 910733556
+      Espadachin_3: -66411926
+      Espadachin_30: 361891035
+      Espadachin_31: -234767558
+      Espadachin_32: -1505867149
+      Espadachin_33: 917383274
+      Espadachin_34: -523882659
+      Espadachin_35: -1499170414
+      Espadachin_36: -265365764
+      Espadachin_37: -494503842
+      Espadachin_38: 2144790886
+      Espadachin_39: -1360323633
+      Espadachin_4: 1427123316
+      Espadachin_40: -1109704998
+      Espadachin_41: 68235182
+      Espadachin_42: -1677306326
+      Espadachin_43: -1359199784
+      Espadachin_44: 1983928471
+      Espadachin_45: -1277768415
+      Espadachin_46: 1197973078
+      Espadachin_47: 192505214
+      Espadachin_48: -489598174
+      Espadachin_49: -908212020
+      Espadachin_5: -509085213
+      Espadachin_50: 552802258
+      Espadachin_51: -1849516921
+      Espadachin_52: -1022178052
+      Espadachin_53: 239584196
+      Espadachin_54: -1579990228
+      Espadachin_55: 148672032
+      Espadachin_56: 604859732
+      Espadachin_57: -840152009
+      Espadachin_58: -317932660
+      Espadachin_59: 1617123629
+      Espadachin_6: 271264856
+      Espadachin_60: -2121513876
+      Espadachin_61: 99316302
+      Espadachin_62: 734861126
+      Espadachin_63: 2062041231
+      Espadachin_64: 856307314
+      Espadachin_65: 687293233
+      Espadachin_66: -1978259983
+      Espadachin_67: 842620962
+      Espadachin_68: 1441647529
+      Espadachin_69: -847346358
+      Espadachin_7: 1324006368
+      Espadachin_70: 1623629846
+      Espadachin_71: -1389156024
+      Espadachin_72: 787674230
+      Espadachin_73: 203642746
+      Espadachin_74: 762426547
+      Espadachin_75: -1140071839
+      Espadachin_76: -942009601
+      Espadachin_77: 1728946103
+      Espadachin_78: -721869971
+      Espadachin_79: 864038024
+      Espadachin_8: 196309318
+      Espadachin_80: -1076542581
+      Espadachin_81: -1112892200
+      Espadachin_82: 718411203
+      Espadachin_83: -623347087
+      Espadachin_84: 1160437052
+      Espadachin_85: 1076711383
+      Espadachin_86: 2069062924
+      Espadachin_87: -758064476
+      Espadachin_88: -247379169
+      Espadachin_89: -163969407
+      Espadachin_9: 1630299675
+      Espadachin_90: -1529190103
+      Espadachin_91: -1020420647
+      Espadachin_92: -1988860752
+      Espadachin_93: 1749494656
+      Espadachin_94: 437661496
+      Espadachin_95: 1939815462
+      Espadachin_96: 807522385
+      Espadachin_97: -1366684033
+      Espadachin_98: 1197503166
+      Espadachin_99: 1872675862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
